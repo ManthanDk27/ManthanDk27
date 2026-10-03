@@ -1,73 +1,279 @@
 
-💻 Welcome to My GitHub!
+👋 Hey, I'm Manthan
 
-Hi there! I'm a passionate Data Scientist and Software Developer working on impactful projects that combine AI, data analysis, and streaming platforms.
+AI Engineer · Generative AI · Agentic AI · Machine Learning
 
+I build intelligent systems that move from idea to production.
 
----
+I'm an AI Engineer focused on building end-to-end AI products and production systems.
 
-🚀 About Me
+My work sits at the intersection of:
 
-🛠️ Building innovative apps like CodeLock (a free coding learning platform) and Zoro (a streaming app for movies, anime, and web series).
+Artificial Intelligence × Software Engineering × Cloud × Systems
 
-🌟 Interested in data science, software engineering, and full-stack development.
+I build everything from machine learning systems to LLM applications, RAG pipelines, AI agents, intelligent backends and production AI infrastructure.
 
-🎯 On a mission to empower people with free, user-friendly apps and learning tools.
+⚡ What I Do
 
+I build AI systems across the complete stack.
 
+Machine Learning
 
----
+I develop, train, evaluate and deploy machine learning systems for real-world problems.
 
-💡 My Skills
+Deep Learning
+
+I work with neural networks, transformers and modern deep learning architectures across vision and language.
+
+Generative AI
+
+I build applications powered by modern foundation models and LLMs.
+
+RAG Systems
+
+I design knowledge-grounded AI systems using embeddings, retrieval, vector databases and reranking.
+
+AI Agents
+
+I build agentic systems capable of reasoning, using tools, interacting with external systems and executing multi-step workflows.
+
+AI Applications
+
+I turn models into complete products with APIs, databases, authentication, interfaces and production infrastructure.
+
+AI Infrastructure
+
+I design and deploy scalable AI systems using cloud infrastructure, containers, monitoring and MLOps/LLMOps.
+
+🏗️ My Engineering Stack
 
 Programming
 
-Languages: Python, JavaScript, SQL
+Python · SQL · Git
 
-Frameworks: Flask, Django (learning phase)
+Machine Learning
 
+NumPy · Pandas · Scikit-learn
 
-Data Science & Analytics
+Deep Learning
 
-Tools: Pandas, NumPy, Scikit-learn, Matplotlib
+PyTorch · TensorFlow
 
-Databases: PostgreSQL
+AI
 
+Computer Vision · NLP · Transformers
 
-Cloud & DevOps
+Generative AI
 
-Platforms: Heroku (backend and analytics hosting)
+LLMs · Embeddings · Vector Databases · RAG · AI Agents
 
+Backend
 
+FastAPI · Flask · REST APIs · PostgreSQL · Redis
 
----
+Infrastructure
 
-🌟 My Projects
+Docker · Linux · AWS · CI/CD
 
-CodeLock
+Production AI
 
-> Goal: A free platform to help users learn coding interactively.
+MLOps · LLMOps · Model Serving · Monitoring · Evaluation
 
+🚀 Featured Projects
 
+🤖 Ciro AI
 
-Interactive lessons and progress tracking.
+An AI system focused on intelligent assistance, automation and AI-powered interaction.
 
-Supports multiple languages like Python and JavaScript.
+AI · LLMs · Agents · Backend · Production
 
+🧠 Zero AI
 
-Zoro
+An AI-powered education platform built around the idea of making learning more interactive, visual and intelligent.
 
-> Goal: A free, user-friendly streaming app.
+The system is designed to combine AI explanations, real-time interaction and intelligent educational experiences.
 
+AI · GenAI · RAG · Agents · Education
 
+📱 AI Android Companion
 
-Focuses on movies, anime, and web series.
+An intelligent Android companion designed around voice-first interaction, personalization and AI-powered device capabilities.
 
-Daily content updates, search, and user feedback features.
+Android · AI · Voice · Automation · APIs
 
+🧪 AI Engineering Projects
 
+A collection of production-oriented systems covering:
 
-<!---
-ManthanDk27/ManthanDk27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Machine Learning
+
+Deep Learning
+
+Computer Vision
+
+NLP
+
+Generative AI
+
+RAG
+
+AI Agents
+
+Backend Engineering
+
+Cloud Deployment
+
+MLOps
+
+🧠 How I Build AI Systems
+
+I don't treat an AI model as the entire product.
+
+I think in systems.
+
+                    USER
+                      │
+                      ▼
+                APPLICATION
+                      │
+                      ▼
+                   BACKEND
+                      │
+             ┌────────┴────────┐
+             ▼                 ▼
+          AI LAYER          DATABASE
+             │
+       ┌─────┼─────┐
+       ▼     ▼     ▼
+      LLM   RAG   AGENTS
+       │     │     │
+       └─────┼─────┘
+             ▼
+           TOOLS
+             │
+             ▼
+       EXTERNAL SYSTEMS
+             │
+             ▼
+       CLOUD / INFRASTRUCTURE
+             │
+             ▼
+          MONITORING
+
+          ⚙️ Engineering Principles
+
+Build for reality.
+
+A model working in a notebook isn't the finish line.
+
+I care about:
+
+Reliability
+
+Scalability
+
+Latency
+
+Security
+
+Observability
+
+Cost
+
+Evaluation
+
+Maintainability
+
+User experience
+
+Because production AI is more than model accuracy.
+
+🔬 Areas I Work In
+
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Computer Vision
+Natural Language Processing
+Generative AI
+Large Language Models
+Retrieval-Augmented Generation
+AI Agents
+Agentic Systems
+AI Application Engineering
+Backend Engineering
+Cloud Architecture
+MLOps
+LLMOps
+AI System Design
+Production AI
+
+📊 Engineering Mindset
+
+Problem
+   ↓
+Architecture
+   ↓
+Data
+   ↓
+Model
+   ↓
+Application
+   ↓
+Infrastructure
+   ↓
+Deployment
+   ↓
+Monitoring
+   ↓
+Iteration
+
+The goal isn't just to make AI work.
+
+The goal is to make AI useful.
+
+🌎 What I'm Interested In
+
+I'm particularly interested in building systems around:
+
+🤖 Intelligent Agents
+🧠 Generative AI
+🔎 Knowledge & RAG Systems
+🎓 AI-powered Education
+⚙️ AI Automation
+☁️ Production AI Infrastructure
+🧩 AI-native Applications
+
+📈 GitHub
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+🤝 Let's Build
+
+I'm always interested in working on difficult problems involving:
+
+AI · Software · Systems · Automation · Intelligence
+
+If you're building something ambitious with AI,
+
+let's build it. 🚀
+
+<p align="center">
+
+BUILD INTELLIGENT SYSTEMS.
+
+SHIP THEM TO THE REAL WORLD.
+
+</p>
+
+<p align="center">
+
+Manthan · AI Engineer
+
+</p>
