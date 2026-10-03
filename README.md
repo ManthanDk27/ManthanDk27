@@ -1,25 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Manthan&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Concept%20%E2%86%92%20Architecture%20%E2%86%92%20Production&descAlignY=60&descSize=20" width="100%" alt="Manthan banner" />
+<img src="./assets/hero.svg" alt="Manthan, AI Engineer" width="100%" />
 
 <a href="https://github.com/ManthanDk27">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+AI+systems+end-to-end;LLMs+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+Computer+Vision;From+idea+to+architecture+to+deployment;Production+AI%2C+not+just+prototypes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=I+build+AI+systems+end-to-end;From+idea+to+architecture+to+deployment;LLMs+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+Computer+Vision;Production+AI%2C+not+just+prototypes" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManthanDk27&label=Profile%20Views&color=7c3aed&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/ManthanDk27?style=for-the-badge&color=6d28d9&logo=github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-dakkhankar-507083283)
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Manthan
+## 👋 About Me
 
 I'm an **AI Engineer** who takes ideas all the way from **concept → architecture → development → AI integration → deployment → production.**
 
-I don't stop at a notebook or a demo. I design the system around the model: the data flow, the retrieval layer, the agent logic, the APIs, the infrastructure, and the feedback loops that keep it reliable once real users touch it.
+I don't stop at a notebook or a demo. I design the system around the model: the data flow, the retrieval layer, the agent logic, the APIs, the infrastructure and the feedback loops that keep it reliable once real users touch it.
 
 ```python
 class Manthan:
@@ -34,18 +35,24 @@ class Manthan:
 # 🚀 What I've Built
 
 ### 🧠 Ciro AI
-An AI platform focused on **intelligent assistance, automation and AI-powered interaction**. Ciro is engineered as a full system rather than a single model call:
-- **Dual-panel interface** that pairs conversation with generated content
-- **Voice-driven interaction** powered by ElevenLabs
-- **Streaming content generation** with animated output
+<img src="./assets/ciro-ai.svg" alt="Ciro AI" width="100%" />
+
+An **AI education platform** that teaches the way a great tutor would: with **live diagrams, vivid real-life examples and step-by-step explanations** generated as you learn. Engineered as a full system, not a single model call:
+- **Dual-panel interface:** conversation on one side, live visual explanation on the other
+- **Voice teaching** powered by ElevenLabs
+- **Streaming, animated content generation** for diagrams and examples
 - **Multi-model architecture** orchestrated through the Claude API
 - **Next.js + Supabase** application and data layer
 
 ### 🌌 Zero AI
-My long-term vision for an **AI-powered education system**: learning that is **interactive, visual, intelligent and accessible**. Zero AI is where my work in LLMs, retrieval, personalization and adaptive interfaces converges into one product direction.
+<img src="./assets/zero-ai.svg" alt="Zero AI" width="100%" />
+
+A **Python-based streaming platform** in the spirit of extension-driven apps like CloudStream, with one big difference: **the AI does the curating.** Instead of making users manually decide what to download and install, Zero AI **recommends what's worth getting and what to skip**, turning a manual setup chore into an intelligent, guided experience.
 
 ### 📱 AI Android Companion
-A **voice-first intelligent assistant** that turns an Android device into a personal AI companion, with **personalization, automation and AI-powered capabilities** built around how a person actually uses their phone.
+<img src="./assets/ai-android-companion.svg" alt="AI Android Companion" width="100%" />
+
+Gives **old, unused Android phones** (the ones sitting in a drawer or a box) **a second life** as a **full AI assistant**. The device's OS is converted into an assistant-first environment, creating a **free companion that runs AI offline**, with **voice interaction, personalization and automation**, no subscription or constant connection required.
 
 <br/>
 
@@ -68,38 +75,19 @@ A **voice-first intelligent assistant** that turns an Android device into a pers
 
 # ⚙️ What I Do
 
-I build **complete AI systems**, not isolated components.
+I build **complete AI systems**, not isolated components. Every project moves through the same path:
 
-### 1️⃣ Design: AI System Architecture
-Turning a fuzzy idea into a buildable system.
-- Problem framing and model/approach selection
-- System design for AI products: data flow, latency, cost and scale
-- Choosing the right pattern: fine-tuning, RAG, agents or classical ML
+<img src="./assets/pipeline.svg" alt="Idea to production pipeline" width="100%" />
 
-### 2️⃣ Build: Intelligence Layer
-The models and reasoning at the core.
-- **LLM applications:** prompting, structured generation, function calling
-- **RAG engineering:** ingestion pipelines, embeddings, hybrid retrieval, evaluation
-- **Agentic AI:** planners, tool-using agents, stateful workflows
-- **ML / DL:** training, evaluation and optimization for vision and NLP tasks
+<br/>
 
-### 3️⃣ Integrate: Application & Backend Engineering
-Making AI usable in real products.
-- API design and backend services
-- Data stores, vector databases and caching
-- Clean interfaces between models, business logic and the user experience
-
-### 4️⃣ Ship: Cloud, Deployment & Production
-Getting it live and keeping it alive.
-- Containerization and cloud deployment on **AWS**
-- CI/CD pipelines for repeatable releases
-- Scaling inference and managing cost
-
-### 5️⃣ Operate: MLOps / LLMOps
-Keeping AI reliable after launch.
-- Monitoring, logging and tracing of LLM pipelines
-- Evaluation harnesses and regression testing for prompts and models
-- Iteration loops driven by real usage
+| Stage | What it involves |
+|---|---|
+| **1 · Design** | Problem framing, model and approach selection, system design for latency, cost and scale. Choosing the right pattern: fine-tuning, RAG, agents or classical ML |
+| **2 · Build** | LLM applications (prompting, structured output, function calling), RAG pipelines, tool-using agents and stateful workflows, ML/DL training and evaluation |
+| **3 · Integrate** | API design, backend services, data stores, vector databases and caching, clean interfaces between models, business logic and the user experience |
+| **4 · Deploy** | Containerization, cloud deployment on **AWS**, CI/CD for repeatable releases, scaling inference and managing cost |
+| **5 · Operate** | Monitoring and tracing of LLM pipelines, evaluation harnesses, regression tests for prompts and models, iteration driven by real usage |
 
 ---
 
@@ -144,19 +132,7 @@ Keeping AI reliable after launch.
 
 ---
 
-# 🔭 How I Think About AI Systems
-
-```text
-   Idea
-    │
-    ▼
- Architecture ──► Data & Retrieval ──► Model / Agent Logic
-                                              │
-                                              ▼
-              Monitoring ◄── Deployment ◄── API & Backend
-                  │
-                  └──────► Evaluation & Iteration ──► Production
-```
+# 🔭 Engineering Principles
 
 - **Systems over demos.** A model is one component. Reliability, latency and cost decide whether a product survives.
 - **Grounded over guessed.** Retrieval, tools and evaluation beat hoping the model gets it right.
