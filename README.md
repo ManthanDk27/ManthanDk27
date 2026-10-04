@@ -45,7 +45,7 @@ An **AI education platform** that teaches the way a great tutor would: with **li
 - **Next.js + Supabase** application and data layer
 
 ### 🌌 Zero AI
-<img src="./assets/zero-ai.svg" alt="Zero AI" width="100%" />
+<img src="https://github.com/ManthanDk27/ManthanDk27/blob/f33d8bc0cfdb525e1bb20f064aea0fc0bd078c41/Zero%20AI%20Streaming%20Experience.png" alt="Zero AI" width="100%" />
 
 A **Python-based streaming platform** in the spirit of extension-driven apps like CloudStream, with one big difference: **the AI does the curating.** Instead of making users manually decide what to download and install, Zero AI **recommends what's worth getting and what to skip**, turning a manual setup chore into an intelligent, guided experience.
 
