@@ -50,7 +50,7 @@ An **AI education platform** that teaches the way a great tutor would: with **li
 A **Python-based streaming platform** in the spirit of extension-driven apps like CloudStream, with one big difference: **the AI does the curating.** Instead of making users manually decide what to download and install, Zero AI **recommends what's worth getting and what to skip**, turning a manual setup chore into an intelligent, guided experience.
 
 ### 📱 AI Android Companion
-<img src="./assets/ai-android-companion.svg" alt="AI Android Companion" width="100%" />
+<img src="https://github.com/ManthanDk27/ManthanDk27/blob/16197d02bb0f7b5479160fb56afaf7227f572e51/Offline%20AI%20Companion%20Landing%20Page.png" alt="AI Android Companion" width="100%" />
 
 Gives **old, unused Android phones** (the ones sitting in a drawer or a box) **a second life** as a **full AI assistant**. The device's OS is converted into an assistant-first environment, creating a **free companion that runs AI offline**, with **voice interaction, personalization and automation**, no subscription or constant connection required.
 
