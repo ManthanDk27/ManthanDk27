@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Manthan, AI Engineer" width="100%" />
+
 
 <a href="https://github.com/ManthanDk27">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=I+build+AI+systems+end-to-end;From+idea+to+architecture+to+deployment;LLMs+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+Computer+Vision;Production+AI%2C+not+just+prototypes" alt="Typing SVG" />
