@@ -35,7 +35,7 @@ class Manthan:
 # 🚀 What I've Built
 
 ### 🧠 Ciro AI
-<img src="./assets/ciro-ai.svg" alt="Ciro AI" width="100%" />
+<img src="https://github.com/ManthanDk27/ManthanDk27/blob/67157d4c4e0452a3347ed33243accefc51b94c65/Ciro%20AI_%20Your%20Learning%20Companion%20(1).png" alt="Ciro AI" width="100%" />
 
 An **AI education platform** that teaches the way a great tutor would: with **live diagrams, vivid real-life examples and step-by-step explanations** generated as you learn. Engineered as a full system, not a single model call:
 - **Dual-panel interface:** conversation on one side, live visual explanation on the other
